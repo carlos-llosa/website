@@ -1,0 +1,8 @@
+---
+title: "Software"
+---
+
+## `totr`
+I'm lead author of the `totr` R package ([GitHub](https://github.com/carlos-llosa/totr)). 
+
+This package performs Gaussian linear regression with tensor responses and tensor covariates. This implementation allows modeling the entry-to-entry correlation in the response tensor, and allows for four different types of low-rank regression coefficients.

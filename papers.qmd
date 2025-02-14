@@ -1,0 +1,25 @@
+---
+title: "Papers"
+---
+
+<br>
+<font size="5">[Google Scholar Page](https://scholar.google.com/citations?user=NsKKWZcAAAAJ&hl=en)</font> 
+<br>
+
+COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
+
+## 2024
+
+ **Carlos Llosa-Vite**, Ranjan Maitra, "Elliptically-Contoured Tensor-variate Distributions with Application to Image Learning", *ACM Transactions on Probabilistic Machine Learning*, 1.1, 2024. [DOI](https://doi.org/10.1145/3675161)
+
+Jason Adams, Brandon Berman, Thomas Buchheit, **Carlos Llosa**, Shahed Reza, "Recent Advances in Functional Data Analysis for Electronic Device Data", *2024 8th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)*, , 2024. [DOI](https://doi.org/10.1109/EDTM58488.2024.10511634)
+
+## 2022
+
+ **Carlos Llosa-Vite**, Ranjan Maitra, "Reduced-rank tensor-on-tensor regression and tensor-variate analysis of variance", *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 45.2, 2024. [DOI](https://doi.org/10.1109/TPAMI.2022.3164836)
+
+
+##  Talks
+"Elliptically-Contoured Tensor-Variate Distributions" *2024 IMS International Conference on Statistics and Data Science (ICSDS)*, December 17, 2024, [Slides](Presentations/ec_slides.pdf)
+
+fill in more 

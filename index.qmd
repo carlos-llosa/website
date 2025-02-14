@@ -1,0 +1,53 @@
+---
+title: "Carlos Llosa"
+description: | 
+             | *Senior Member of Technical Staff*, Sandia National Laboratories 
+image: images/me.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      url: "https://www.linkedin.com/in/carlos-llosa-83a77aa2"
+    - icon: github
+      url: "https://github.com/carlos-llosa/"
+    - icon: google
+      url: "https://scholar.google.com/citations?user=NsKKWZcAAAAJ&hl=en"
+    - icon: bi-envelope
+      url: "mailto:cjllosa@sandia.gov"
+#    - text: CV
+#      href: "Docs/JDT_CV.pdf"
+#resources:
+#    - "Docs/JDT_CV.pdf"
+---
+
+::: column-page
+## Bio
+
+I obtained my M.S. and Ph.D. in Statistics from [Iowa State University](https://www.stat.iastate.edu) in 2018 and 2022, respectively, and I received the B.S. degree from [The University of Arizona](https://www.math.arizona.edu/) in 2015. My dissertation was advised by Ranjan Maitra on the statistical analysis of tensor-valued data. Currently, I am a Senior Member of the Technical Staff at Sandia National Laboratories in Albuquerque, NM
+
+My main interest lies in the area of multilinear statistics, or the statistical analysis of tensor-valued data. This involves creating new models for tensor data, and also studying existing tensor models from a statistical perspective. More generally, I am interested in the statistical analysis of complex data structures, including functional, spatial, temporal, and tensor-variate data, particularly at the intersections of two or more of these domains.
+
+## Education
+
+My full CV is available here.
+
+**Iowa State University** Ames, IA
+
+Ph.D. in Statistics \| May 2018 - May 2022\
+M.S. in Statistics \| August 2016 - May 2018
+
+**The University of Arizona** Tucson, AZ
+
+B.S. in Mathematics \| August 2011- May 2015
+
+## Contact Information
+
+Carlos Llosa\
+[Statistical Sciences](http://www.sandia.gov/statistics/)\
+[Sandia National Laboratories](http://www.sandia.gov/)\
+PO Box 5800 MS 0829\
+Albuquerque, NM 87185
+
+Email SNL: [cjllosa\@sandia.gov](mailto:cjllosa@sandia.gov)\
+Phone: 505-844-2540
+:::
