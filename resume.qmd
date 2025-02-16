@@ -5,12 +5,12 @@ title: "Resume"
 
 
 ### Research Interests
-Statistical Tensor Analysis, Tensor decompositions, Computational Statistics, Forensic matching
+Statistical Tensor Analysis, Tensor decompositions, Statistical Learning,  Medical Imaging, Image Analysis, Dyadic Data Analysis, Computational Statistics, Forensic Matching
 
 ### Education
 **Doctor of Philosophy** in Statistics (2022)		
 *Iowa State University, Ames, IA*		
-**Thesis title:** Statistical methods for tensor-valued data
+**Thesis title:** Statistical methods for tensor-valued data\
 **Thesis advisor:** Prof. Ranjan Maitra
  
 **Master of Science** in Statistics (2018)		
@@ -29,11 +29,11 @@ Statistical Sciences
 Albuquerque, NM			
 
 **Research Assistant** (2019-2022)		
-Statistics		
+Statistical Analysis of Forensic Evidence		
 Iowa State University, Ames, IA
 
 **Teaching Assistant** (2016-2019)		
-Statistics		
+Business Statistics Instructor		
 Iowa State University, Ames, IA	
 
 ### Affiliations	

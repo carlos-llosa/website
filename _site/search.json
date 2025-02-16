@@ -18,14 +18,14 @@
     "href": "papers.html#section",
     "title": "Papers",
     "section": "2024",
-    "text": "2024\nCarlos Llosa-Vite, Ranjan Maitra, “Elliptically-Contoured Tensor-variate Distributions with Application to Image Learning”, ACM Transactions on Probabilistic Machine Learning, 1.1, 2024. DOI\nJason Adams, Brandon Berman, Thomas Buchheit, Carlos Llosa, Shahed Reza, “Recent Advances in Functional Data Analysis for Electronic Device Data”, 2024 8th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), , 2024. DOI"
+    "text": "2024\nCarlos Llosa-Vite, Ranjan Maitra, “Elliptically-Contoured Tensor-variate Distributions with Application to Image Learning”, ACM Transactions on Probabilistic Machine Learning, 1.1, 2024. DOI (A version of this manuscript obtained was Runners’-up at the Statistical Methods in Imaging Student Paper Competition award)\nJason Adams, Brandon Berman, Thomas Buchheit, Carlos Llosa, Shahed Reza, “Recent Advances in Functional Data Analysis for Electronic Device Data”, 2024 8th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), , 2024. DOI"
   },
   {
     "objectID": "papers.html#section-1",
     "href": "papers.html#section-1",
     "title": "Papers",
     "section": "2022",
-    "text": "2022\nCarlos Llosa-Vite, Ranjan Maitra, “Reduced-rank tensor-on-tensor regression and tensor-variate analysis of variance”, IEEE Transactions on Pattern Analysis and Machine Intelligence, 45.2, 2024. DOI"
+    "text": "2022\nCarlos Llosa-Vite, Ranjan Maitra, “Reduced-rank tensor-on-tensor regression and tensor-variate analysis of variance”, IEEE Transactions on Pattern Analysis and Machine Intelligence, 45.2, 2024. DOI (A version of this manuscript won me the first-place award at the 2022 Student Paper Competition of the ASA Section on Statistics in Imaging.)"
   },
   {
     "objectID": "papers.html#talks",
@@ -46,7 +46,7 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Education\nDoctor of Philosophy in Statistics (2022)\nIowa State University, Ames, IA\nThesis title: Statistical methods for tensor-valued data Thesis advisor: Prof. Ranjan Maitra\nMaster of Science in Statistics (2018)\nIowa State University, Ames, IA\nCreative Component title: Tensor on tensor regression with tensor normal errors and tensor network states on the regression parameter PDF\nThesis advisor: Prof. Ranjan Maitra\nBachelor of Science in Mathematics (2015)\nThe University of Arizona, Tucson, AZ\n\n\nExperience\nSenior Member of Technical Staff (2022-present)\nSandia National Laboratories\nStatistical Sciences\nAlbuquerque, NM\nResearch Assistant (2019-2022)\nStatistics\nIowa State University, Ames, IA\nTeaching Assistant (2016-2019)\nStatistics\nIowa State University, Ames, IA\n\n\nAffiliations\nASA, SIAM, ACM, IEEE"
+    "text": "Education\nDoctor of Philosophy in Statistics (2022)\nIowa State University, Ames, IA\nThesis title: Statistical methods for tensor-valued data\nThesis advisor: Prof. Ranjan Maitra\nMaster of Science in Statistics (2018)\nIowa State University, Ames, IA\nCreative Component title: Tensor on tensor regression with tensor normal errors and tensor network states on the regression parameter PDF\nThesis advisor: Prof. Ranjan Maitra\nBachelor of Science in Mathematics (2015)\nThe University of Arizona, Tucson, AZ\n\n\nExperience\nSenior Member of Technical Staff (2022-present)\nSandia National Laboratories\nStatistical Sciences\nAlbuquerque, NM\nResearch Assistant (2019-2022)\nStatistical Analysis of Forensic Evidence\nIowa State University, Ames, IA\nTeaching Assistant (2016-2019)\nBusiness Statistics Instructor\nIowa State University, Ames, IA\n\n\nAffiliations\nASA, SIAM, ACM, IEEE"
   },
   {
     "objectID": "software.html",
