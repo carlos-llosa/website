@@ -8,5 +8,7 @@ testing continuous deployment
 
 <center><img src="images/ResearchFigure.png" alt="kinematics" style="width:80%; border:0px solid"></center>
 
+<center><img src="images/ResearchFigure2.png" alt="kinematics" style="width:80%; border:0px solid"></center>
+
 [Sandia Statistical Sciences](http://www.sandia.gov/statistics/)	
 
