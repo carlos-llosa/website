@@ -10,7 +10,7 @@ website:
   twitter-card: true
   open-graph:
     locale: en_US
-  favicon: favicon.png
+  favicon: images/favicon.png
   navbar:
     right:
       - href: index.qmd

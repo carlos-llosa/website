@@ -1,6 +1,6 @@
----
-title: "Resume"
----
+<center><img src="images/chakana2v.png" alt="kinematics" style="width:100%; border:0px solid"></center>
+
+# Resume
 
 
 
@@ -29,7 +29,7 @@ Statistical Sciences
 Albuquerque, NM			
 
 **Research Assistant** (2019-2022)		
-Statistical Analysis of Forensic Evidence		
+Statistical Analysis of Forensic Evidence Imaging
 Iowa State University, Ames, IA
 
 **Teaching Assistant** (2016-2019)		

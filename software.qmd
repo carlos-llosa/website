@@ -1,6 +1,7 @@
----
-title: "Software"
----
+<center><img src="images/chakana3h.png" alt="kinematics" style="width:100%; border:0px solid"></center>
+
+# Software
+
 
 ## `totr`
 I'm lead author of the `totr` R package ([GitHub](https://github.com/carlos-llosa/totr)). 

@@ -1,7 +1,6 @@
----
-title: "Papers"
----
+<center><img src="images/chakana2h.png" alt="kinematics" style="width:100%; border:0px solid"></center>
 
+# Papers
 <br>
 <font size="5">[Google Scholar Page](https://scholar.google.com/citations?user=NsKKWZcAAAAJ&hl=en)</font> 
 <br>
@@ -19,7 +18,46 @@ Jason Adams, Brandon Berman, Thomas Buchheit, **Carlos Llosa**, Shahed Reza, "Re
  **Carlos Llosa-Vite**, Ranjan Maitra, "Reduced-rank tensor-on-tensor regression and tensor-variate analysis of variance", *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 45.2, 2024. [DOI](https://doi.org/10.1109/TPAMI.2022.3164836)
 **(A version of this manuscript won me the first-place award at the 2022 Student Paper Competition of the ASA Section on Statistics in Imaging.)**
 
-##  Talks
-"Elliptically-Contoured Tensor-Variate Distributions" *2024 IMS International Conference on Statistics and Data Science (ICSDS)*, December 17, 2024, [Slides](Presentations/ec_slides.pdf)
+# Talks
 
-fill in more 
+## 2025
+
+- **(invited talk)** "Poisson-response Tensor-on-Tensor Regression and Applications" *ASA Statistics in Imaging Virtual Working Group Colloquium*, February 27, 2025, [Slides](Presentations/ptotr_v1.pdf)
+
+
+- **(contributed poster)** "On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model" *2025 Conference on Data Analysis (CoDA2025)*, February 26, 2025
+
+
+## 2024
+
+- **(contributed talk)** "Elliptically-Contoured Tensor-Variate Distributions" *2024 IMS International Conference on Statistics and Data Science (ICSDS 2024)*, December 18, 2024, [Slides](Presentations/ec_slides.pdf)
+
+- **(invited talk)** "Elliptically-Contoured Tensor-Variate Distributions" *18th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics 2024)*, December 14, 2024, [Slides](Presentations/ec_slides.pdf)
+
+- **(contributed poster)** "On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model" *SIAM Conference on Mathematics of Data Science (MDS24)*, October 21, 2024
+
+- **(invited talk)** "Probabilistic Guarantees for Low-Rank Tensor Decompositions" *The 2024 Sandia Machine Learning and Deep Learning (MLDL24) Workshop *, September 11, 2024, [Slides](Presentations/MLDL24_v1.pdf)
+
+- **(contributed talk)** "On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model" *2024 Joint Statistical Meetings (JSM 2024)*, August 7, 2024, [Slides](Presentations/PCP_v1.pdf)
+
+
+## 2023
+
+- **(invited talk)** "On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model" *16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023) *, December 17, 2023, [Slides](Presentations/PCP_v1.pdf)
+
+- **(invited talk)** "Poisson-response Tensor-on-Tensor Regression and Applications" *Iowa State University Department of Statistics 75th Anniversary Research Conference*, October 1, 2023, [Slides](Presentations/ptotr_v1.pdf)
+
+- **(contributed talk)** "Poisson-response Tensor-on-Tensor Regression and Applications" *2023 Joint Statistical Meetings (JSM 2023)*, August 7, 2023, [Slides](Presentations/ptotr_v1.pdf)
+
+- **(invited talk)** "Poisson-response Tensor-on-Tensor Regression and Applications" *The 2023 Sandia Machine Learning and Deep Learning (MLDL23) Workshop *, July 4, 2023, [Slides](Presentations/ptotr_v1.pdf)
+
+- **(contributed poster)** "Poisson-response Tensor-on-Tensor Regression and Applications " *2023 Conference on Data Analysis (CoDA2023)*, March 8, 2023
+
+## 2022
+
+- **(invited talk, first place in student paper competition)** "Reduced-Rank Tensor-on-Tensor Regression and Tensor-Variate ANOVA" *2022 Joint Statistical Meetings (JSM 2022)*, August 7, 2022, [Slides](Presentations/totr_v1.pdf)
+
+- **(invited talk, runner-up in student paper competition)** "Tensor-variate elliptically contoured distributions with application to image learning" *The 2022 Statistical Methods in Imaging (SMI) Conference*, May 25, 2022, [Slides](Presentations/ec_smi22.pdf)
+
+- **(invited talk)** "Reduced-Rank Tensor-on-Tensor Regression and Tensor-Variate ANOVA" *Iowa State University Department of Statistics Seminar*, February, 2022, [Slides](Presentations/totr_v1.pdf)
+
