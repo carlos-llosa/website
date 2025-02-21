@@ -83,6 +83,22 @@ cookieconsent.run({
   
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css">
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -155,7 +171,20 @@ cookieconsent.run({
 </center>
 <section id="research" class="level1">
 <h1>Research</h1>
-<p>missing</p>
+<p>My primary research focus lies in extending traditional statistical models to accommodate tensor data. This endeavor often involves navigating a vast parameter space, which I aim to reduce through the application of low-rank tensor factorizations. As a motivating example, consider the following matrix-response, matrix-covariate linear regression model:</p>
+<p><span class="math display">
+Y_i = X_i \cdot \beta + E_i
+</span></p>
+<p>Here, <span class="math inline">Y_i</span> is a matrix of size <span class="math inline">M_1 \times M_2</span> and <span class="math inline">X_i</span> is a matrix of size <span class="math inline">N_1 \times N_2</span>. This formulation introduces two tensor parameters:</p>
+<ul>
+<li>The coefficient <span class="math inline">\beta</span>, represented as a 4D tensor of size <span class="math inline">M_1 \times M_2 \times N_1 \times N_2</span>.</li>
+<li>The covariance matrix of the error term <span class="math inline">E_i</span>, denoted as <span class="math inline">\Sigma</span>, which is another 4D tensor of size <span class="math inline">M_1 \times M_1 \times M_2 \times M_2</span>.</li>
+</ul>
+<p>The large number of parameters above renders inference for traditional linear regression impractical, particularly without a sufficiently large sample size. To address this challenge, it is common to impose restrictions on the parameter space. Standard approaches include regularization techniques such as Lasso and Ridge regression for <span class="math inline">\beta</span>, and Graphical Lasso for <span class="math inline">\Sigma</span>. However, these methods often overlook the rich tensor structure that could facilitate more effective parameter-space restrictions.</p>
+<p>In my research, I typically assume that while <span class="math inline">\beta</span> and <span class="math inline">\Sigma</span> are large, they can be characterized by a significantly smaller number of coefficients, through a specified low-rank tensor factorization. I have published work exploring the use of canonical polyadic (CP), Tucker, and tensor train/ring factorizations for the coefficient <span class="math inline">\beta</span>. Additionally, I have investigated the case where <span class="math inline">\Sigma</span> can be represented as a large Kronecker product. Low-rank assumptions on <span class="math inline">\Sigma</span> are more challenging due to symmetry and positive definiteness, and it is also one of my research interests.</p>
+<p>Another avenue of my research seeks to extend the traditional additive-error Gaussian-noise framework I described in the above linear regression setup. A core objective of my work is to enable practitioners of conventional statistical methodologies—such as ANOVA, Poisson regression, discriminant analysis, Gaussian mixtures, logistic regression, and generalized linear models (GLMs)—to effectively transfer their expertise into the realm of tensor analysis.</p>
+<p>Furthermore, I also work on framing existing tensor methods as statistical models and deriving fundamental statistical properties from them. This includes investigating the conditions under which these models are well-posed (identifiable), analyzing the Fisher Information Matrix, and exploring its utility in bounding estimation errors. In addition to traditional Cramér-Rao bounds, I have also contributed to the development of probability bounds and minimax error bounds.</p>
+<p>During my PhD, I was particularly motivated by applications involving image data. Since then, I have encountered tensors of various forms and distributions, including count time-series tensors derived from dyadic data, moment tensors from multivariate datasets, count tensors from multivariate histograms, adjacency tensors from multigraphs, and hyperspectral imaging tensors. The ubiquity of tensors in diverse fields inspires me to continue pursuing this field of research.</p>
 <center>
 <img src="images/ResearchFigure.png" alt="kinematics" style="width:80%; border:0px solid">
 </center>

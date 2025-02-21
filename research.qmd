@@ -2,7 +2,30 @@
 
 # Research
 
-missing
+My primary research focus lies in extending traditional statistical models to accommodate tensor data. This endeavor often involves navigating a vast parameter space, which I aim to reduce through the application of low-rank tensor factorizations.
+As a motivating example, consider the following matrix-response, matrix-covariate linear regression model:
+$$
+Y_i = X_i \cdot \beta + E_i
+$$
+
+Here, $Y_i$ is a matrix of size $M_1 \times M_2$ and $X_i$ is a matrix of size $N_1 \times N_2$. This formulation introduces two tensor parameters:
+
+- The coefficient $\beta$, represented as a 4D tensor of size $M_1 \times M_2 \times N_1 \times N_2$.
+- The covariance matrix of the error term $E_i$, denoted as $\Sigma$, which is another 4D tensor of size $M_1 \times M_1 \times M_2 \times M_2$.
+
+
+The large number of parameters above renders inference for traditional linear regression impractical, particularly without a sufficiently large sample size. To address this challenge, it is common to impose restrictions on the parameter space. Standard approaches include regularization techniques such as Lasso and Ridge regression for $\beta$, and Graphical Lasso for $\Sigma$. However, these methods often overlook the rich tensor structure that could facilitate more effective parameter-space restrictions.
+
+In my research, I typically assume that while $\beta$ and $\Sigma$ are large, they can be characterized by a significantly smaller number of coefficients, through a specified low-rank tensor factorization. I have published work exploring the use of canonical polyadic (CP), Tucker, and tensor train/ring factorizations for the coefficient $\beta$. Additionally, I have investigated the case where $\Sigma$ 
+can be represented as a large Kronecker product. Low-rank assumptions on $\Sigma$ are more challenging due to symmetry and positive definiteness, and it is also one of my research interests.
+ 
+Another avenue of my research seeks to extend the traditional additive-error Gaussian-noise framework I described in the above linear regression setup. A core objective of my work is to enable practitioners of conventional statistical methodologies—such as ANOVA, Poisson regression, discriminant analysis, Gaussian mixtures, logistic regression, and generalized linear models (GLMs)—to effectively transfer their expertise into the realm of tensor analysis.
+
+Furthermore, I also work on framing existing tensor methods as statistical models and deriving fundamental statistical properties from them. This includes investigating the conditions under which these models are well-posed (identifiable), analyzing the Fisher Information Matrix, and exploring its utility in bounding estimation errors. In addition to traditional Cramér-Rao bounds, I have also contributed to the development of probability bounds and minimax error bounds.
+
+During my PhD, I was particularly motivated by applications involving image data. Since then, I have encountered tensors of various forms and distributions, including count time-series tensors derived from dyadic data, moment tensors from multivariate datasets, count tensors from multivariate histograms, adjacency tensors from multigraphs, and hyperspectral imaging tensors. The ubiquity of tensors in diverse fields inspires me to continue pursuing this field of research.
+
+
 
 <center><img src="images/ResearchFigure.png" alt="kinematics" style="width:80%; border:0px solid"></center>
 
