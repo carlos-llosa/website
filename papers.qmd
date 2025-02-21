@@ -11,12 +11,18 @@ COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this
 
  **Carlos Llosa-Vite**, Ranjan Maitra, "Elliptically-Contoured Tensor-variate Distributions with Application to Image Learning", *ACM Transactions on Probabilistic Machine Learning*, 1.1, 2024. [DOI](https://doi.org/10.1145/3675161) **(A version of this manuscript was Runners’-up at the Statistical Methods in Imaging Student Paper Competition award)**
 
-Jason Adams, Brandon Berman, Thomas Buchheit, **Carlos Llosa**, Shahed Reza, "Recent Advances in Functional Data Analysis for Electronic Device Data", *2024 8th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)*, , 2024. [DOI](https://doi.org/10.1109/EDTM58488.2024.10511634)
+Jason Adams, Brandon Berman, Thomas Buchheit, **Carlos Llosa**, Shahed Reza, "Recent Advances in Functional Data Analysis for Electronic Device Data", *2024 8th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)*, 2024. [DOI](https://doi.org/10.1109/EDTM58488.2024.10511634)
 
 ## 2022
 
  **Carlos Llosa-Vite**, Ranjan Maitra, "Reduced-rank tensor-on-tensor regression and tensor-variate analysis of variance", *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 45.2, 2024. [DOI](https://doi.org/10.1109/TPAMI.2022.3164836)
 **(A version of this manuscript won me the first-place award at the 2022 Student Paper Competition of the ASA Section on Statistics in Imaging.)**
+
+Bishoy Dawood, **Carlos Llosa-Vite**, Geoffrey Z. Thompson, Barbara K. Lograsso, Lauren K. Claytor, John Vanderkolk, William Meeker, Ranjan Maitra, Ashraf Bastawros, "Quantitative matching of forensic evidence fragments utilizing 3D microscopy analysis of fracture surface replicas", *Journal of Forensic Sciences*, 67.3, 2022. [DOI](https://doi.org/10.1111/1556-4029.15012)
+
+## 2018
+
+ **Carlos Llosa**, "Tensor on tensor regression with tensor normal errors and tensor network states on the regression parameter", *Creative components, Iowa State Digital Repository*, 2018. [PDF](https://dr.lib.iastate.edu/entities/publication/7b4a1bd3-3a9d-439a-be25-2f787a817d56)
 
 # Talks
 
