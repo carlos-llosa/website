@@ -4,56 +4,56 @@
     "href": "index.html",
     "title": "Carlos Llosa",
     "section": "",
-    "text": "I obtained my M.S. and Ph.D. degrees in Statistics from Iowa State University in 2018 and 2022, respectively, and I received the B.S. degree in Mathematics from The University of Arizona in 2015. My dissertation was advised by Ranjan Maitra on the statistical analysis of tensor-valued data. Currently, I am a Senior Member of the Technical Staff at the Department of Statistical Sciences at Sandia National Laboratories in Albuquerque, NM.\nMy main interest lies in the area of multilinear statistics, or the statistical analysis of tensor-valued data. This involves creating new models for tensor data, and also studying existing tensor models from a statistical perspective. More generally, I am interested in the statistical analysis of complex data structures, including functional, spatial, temporal, and tensor-variate data, particularly at the intersections of two or more of these domains.\n\n\n\nMy full CV will be available here.\nIowa State University Ames, IA\nPh.D. in Statistics | May 2018 - May 2022\nM.S. in Statistics | August 2016 - May 2018\nThe University of Arizona Tucson, AZ\nB.S. in Mathematics | August 2011- May 2015\n\n\n\nCarlos Llosa\nStatistical Sciences\nSandia National Laboratories\nPO Box 5800 MS 0829\nAlbuquerque, NM 87185\nEmail SNL: cjllosa@sandia.gov\nPhone: 505-844-2540"
+    "text": "I obtained my M.S. and Ph.D. degrees in Statistics from Iowa State University in 2018 and 2022, respectively, and I received the B.S. degree in Mathematics from The University of Arizona in 2015. My doctoral dissertation was advised by Ranjan Maitra on the statistical analysis of tensor-valued data. Currently, I am a Senior Member of the Technical Staff at the Department of Statistical Sciences at Sandia National Laboratories in Albuquerque, NM. I am also an associate editor for Sankhya B, The Indian Journal of Statistics.\nMy main interest lies in the area of multilinear statistics, or the statistical analysis of tensor-valued data. This involves creating new models for tensor data, and also studying existing tensor models from a statistical perspective. More generally, I am interested in the statistical analysis of complex data structures, including functional, spatial, temporal, and tensor-variate data, particularly at the intersections of two or more of these domains.\n\n\n\n#My full CV will be available here.\nIowa State University Ames, IA\nPh.D. in Statistics | May 2018 - May 2022\nM.S. in Statistics | August 2016 - May 2018\nThe University of Arizona Tucson, AZ\nB.S. in Mathematics | August 2011- May 2015\n\n\n\nCarlos Llosa\nStatistical Sciences\nSandia National Laboratories\nPO Box 5800 MS 0829\nAlbuquerque, NM 87185\nEmail SNL: cjllosa@sandia.gov\nPhone: 505-844-2540"
   },
   {
     "objectID": "papers.html#section",
     "href": "papers.html#section",
     "title": "Carlos Llosa",
-    "section": "2024",
-    "text": "2024\nCarlos Llosa-Vite, Ranjan Maitra, “Elliptically-Contoured Tensor-variate Distributions with Application to Image Learning”, ACM Transactions on Probabilistic Machine Learning, 1.1, 2024. DOI (A version of this manuscript was Runners’-up at the Statistical Methods in Imaging Student Paper Competition award)\nJason Adams, Brandon Berman, Thomas Buchheit, Carlos Llosa, Shahed Reza, “Recent Advances in Functional Data Analysis for Electronic Device Data”, 2024 8th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), 2024. DOI"
+    "section": "2025",
+    "text": "2025\nOscar López, Arvind Prasadan, Carlos Llosa-Vite, Richard B. Lehoucq, Daniel M. Dunlavy, “Near-Efficient and Non-Asymptotic Multiway Inference”, arXiv:2511.05368\nCarlos Llosa-Vite, Daniel M. Dunlavy, Richard B. Lehoucq, Oscar López, Arvind Prasadan, “A Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model: Maximum Likelihood Estimation and Fisher Information”, arXiv:2511.05352"
   },
   {
     "objectID": "papers.html#section-1",
     "href": "papers.html#section-1",
     "title": "Carlos Llosa",
-    "section": "2022",
-    "text": "2022\nCarlos Llosa-Vite, Ranjan Maitra, “Reduced-rank tensor-on-tensor regression and tensor-variate analysis of variance”, IEEE Transactions on Pattern Analysis and Machine Intelligence, 45.2, 2024. DOI (A version of this manuscript won me the first-place award at the 2022 Student Paper Competition of the ASA Section on Statistics in Imaging.)\nBishoy Dawood, Carlos Llosa-Vite, Geoffrey Z. Thompson, Barbara K. Lograsso, Lauren K. Claytor, John Vanderkolk, William Meeker, Ranjan Maitra, Ashraf Bastawros, “Quantitative matching of forensic evidence fragments utilizing 3D microscopy analysis of fracture surface replicas”, Journal of Forensic Sciences, 67.3, 2022. DOI"
+    "section": "2024",
+    "text": "2024\nCarlos Llosa-Vite, Ranjan Maitra, “Elliptically-Contoured Tensor-variate Distributions with Application to Image Learning”, ACM Transactions on Probabilistic Machine Learning, 1.1, 2024. DOI (A version of this manuscript was Runners’-up at the Statistical Methods in Imaging Student Paper Competition award)\nJason Adams, Brandon Berman, Thomas Buchheit, Carlos Llosa, Shahed Reza, “Recent Advances in Functional Data Analysis for Electronic Device Data”, 2024 8th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), 2024. DOI"
   },
   {
     "objectID": "papers.html#section-2",
     "href": "papers.html#section-2",
     "title": "Carlos Llosa",
-    "section": "2018",
-    "text": "2018\nCarlos Llosa, “Tensor on tensor regression with tensor normal errors and tensor network states on the regression parameter”, Creative components, Iowa State Digital Repository, 2018. PDF"
+    "section": "2022",
+    "text": "2022\nCarlos Llosa-Vite, Ranjan Maitra, “Reduced-rank tensor-on-tensor regression and tensor-variate analysis of variance”, IEEE Transactions on Pattern Analysis and Machine Intelligence, 45.2, 2024. DOI (A version of this manuscript won me the first-place award at the 2022 Student Paper Competition of the ASA Section on Statistics in Imaging.)\nBishoy Dawood, Carlos Llosa-Vite, Geoffrey Z. Thompson, Barbara K. Lograsso, Lauren K. Claytor, John Vanderkolk, William Meeker, Ranjan Maitra, Ashraf Bastawros, “Quantitative matching of forensic evidence fragments utilizing 3D microscopy analysis of fracture surface replicas”, Journal of Forensic Sciences, 67.3, 2022. DOI"
   },
   {
     "objectID": "papers.html#section-3",
     "href": "papers.html#section-3",
     "title": "Carlos Llosa",
-    "section": "2025",
-    "text": "2025\n\n(contributed poster) “The Generalized Multilinear Model” Statistics Meets Tensors: Methodology, Theory, and Applications, May 6, 2025, Poster\n(invited talk) “Poisson-response Tensor-on-Tensor Regression and Applications” ASA Statistics in Imaging Virtual Working Group Colloquium, February 27, 2025, Slides\n(contributed poster) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” 2025 Conference on Data Analysis (CoDA2025), February 26, 2025"
+    "section": "2018",
+    "text": "2018\nCarlos Llosa, “Tensor on tensor regression with tensor normal errors and tensor network states on the regression parameter”, Creative components, Iowa State Digital Repository, 2018. PDF"
   },
   {
     "objectID": "papers.html#section-4",
     "href": "papers.html#section-4",
     "title": "Carlos Llosa",
-    "section": "2024",
-    "text": "2024\n\n(contributed talk) “Elliptically-Contoured Tensor-Variate Distributions” 2024 IMS International Conference on Statistics and Data Science (ICSDS 2024), December 18, 2024, Slides\n(invited talk) “Elliptically-Contoured Tensor-Variate Distributions” 18th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics 2024), December 14, 2024, Slides\n(contributed poster) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” SIAM Conference on Mathematics of Data Science (MDS24), October 21, 2024\n(invited talk) “Probabilistic Guarantees for Low-Rank Tensor Decompositions” The 2024 Sandia Machine Learning and Deep Learning (MLDL24) Workshop , September 11, 2024, Slides\n(contributed talk) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” 2024 Joint Statistical Meetings (JSM 2024), August 7, 2024, Slides"
+    "section": "2025",
+    "text": "2025\n\n(contributed poster) “The Generalized Multilinear Model” Statistics Meets Tensors: Methodology, Theory, and Applications, May 6, 2025, Poster\n(invited talk) “Poisson-response Tensor-on-Tensor Regression and Applications” ASA Statistics in Imaging Virtual Working Group Colloquium, February 27, 2025, Slides\n(contributed poster) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” 2025 Conference on Data Analysis (CoDA2025), February 26, 2025"
   },
   {
     "objectID": "papers.html#section-5",
     "href": "papers.html#section-5",
     "title": "Carlos Llosa",
-    "section": "2023",
-    "text": "2023\n\n(invited talk) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” 16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023) , December 17, 2023, Slides\n(invited talk) “Poisson-response Tensor-on-Tensor Regression and Applications” Iowa State University Department of Statistics 75th Anniversary Research Conference, October 1, 2023, Slides\n(contributed talk) “Poisson-response Tensor-on-Tensor Regression and Applications” 2023 Joint Statistical Meetings (JSM 2023), August 7, 2023, Slides\n(invited talk) “Poisson-response Tensor-on-Tensor Regression and Applications” The 2023 Sandia Machine Learning and Deep Learning (MLDL23) Workshop , July 4, 2023, Slides\n(contributed poster) “Poisson-response Tensor-on-Tensor Regression and Applications” 2023 Conference on Data Analysis (CoDA2023), March 8, 2023"
+    "section": "2024",
+    "text": "2024\n\n(contributed talk) “Elliptically-Contoured Tensor-Variate Distributions” 2024 IMS International Conference on Statistics and Data Science (ICSDS 2024), December 18, 2024, Slides\n(invited talk) “Elliptically-Contoured Tensor-Variate Distributions” 18th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics 2024), December 14, 2024, Slides\n(contributed poster) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” SIAM Conference on Mathematics of Data Science (MDS24), October 21, 2024\n(invited talk) “Probabilistic Guarantees for Low-Rank Tensor Decompositions” The 2024 Sandia Machine Learning and Deep Learning (MLDL24) Workshop , September 11, 2024, Slides\n(contributed talk) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” 2024 Joint Statistical Meetings (JSM 2024), August 7, 2024, Slides"
   },
   {
     "objectID": "papers.html#section-6",
     "href": "papers.html#section-6",
     "title": "Carlos Llosa",
-    "section": "2022",
-    "text": "2022\n\n(invited talk, first place in student paper competition) “Reduced-Rank Tensor-on-Tensor Regression and Tensor-Variate ANOVA” 2022 Joint Statistical Meetings (JSM 2022), August 7, 2022, Slides\n(invited talk, runner-up in student paper competition) “Tensor-variate elliptically contoured distributions with application to image learning” The 2022 Statistical Methods in Imaging (SMI) Conference, May 25, 2022, Slides\n(invited talk) “Reduced-Rank Tensor-on-Tensor Regression and Tensor-Variate ANOVA” Iowa State University Department of Statistics Seminar, February, 2022, Slides"
+    "section": "2023",
+    "text": "2023\n\n(invited talk) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” 16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023) , December 17, 2023, Slides\n(invited talk) “Poisson-response Tensor-on-Tensor Regression and Applications” Iowa State University Department of Statistics 75th Anniversary Research Conference, October 1, 2023, Slides\n(contributed talk) “Poisson-response Tensor-on-Tensor Regression and Applications” 2023 Joint Statistical Meetings (JSM 2023), August 7, 2023, Slides\n(invited talk) “Poisson-response Tensor-on-Tensor Regression and Applications” The 2023 Sandia Machine Learning and Deep Learning (MLDL23) Workshop , July 4, 2023, Slides\n(contributed poster) “Poisson-response Tensor-on-Tensor Regression and Applications” 2023 Conference on Data Analysis (CoDA2023), March 8, 2023"
   },
   {
     "objectID": "research.html",
@@ -75,5 +75,12 @@
     "title": "Carlos Llosa",
     "section": "totr",
     "text": "totr\nI’m lead author of the totr R package (GitHub).\nThis package performs Gaussian linear regression with tensor responses and tensor covariates. This implementation allows modeling the entry-to-entry correlation in the response tensor, and allows for four different types of low-rank regression coefficients."
+  },
+  {
+    "objectID": "papers.html#section-7",
+    "href": "papers.html#section-7",
+    "title": "Carlos Llosa",
+    "section": "2022",
+    "text": "2022\n\n(invited talk, first place in student paper competition) “Reduced-Rank Tensor-on-Tensor Regression and Tensor-Variate ANOVA” 2022 Joint Statistical Meetings (JSM 2022), August 7, 2022, Slides\n(invited talk, runner-up in student paper competition) “Tensor-variate elliptically contoured distributions with application to image learning” The 2022 Statistical Methods in Imaging (SMI) Conference, May 25, 2022, Slides\n(invited talk) “Reduced-Rank Tensor-on-Tensor Regression and Tensor-Variate ANOVA” Iowa State University Department of Statistics Seminar, February, 2022, Slides"
   }
 ]

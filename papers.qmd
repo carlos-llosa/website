@@ -7,6 +7,12 @@
 
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
+## 2025
+
+Oscar López, Arvind Prasadan, **Carlos Llosa-Vite**, Richard B. Lehoucq, Daniel M. Dunlavy, "Near-Efficient and Non-Asymptotic Multiway Inference",  [arXiv:2511.05368](https://arxiv.org/abs/2511.05368) 
+
+ **Carlos Llosa-Vite**, Daniel M. Dunlavy, Richard B. Lehoucq, Oscar López, Arvind Prasadan, "A Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model: Maximum Likelihood Estimation and Fisher Information",  [arXiv:2511.05352](https://arxiv.org/abs/2511.05352) 
+
 ## 2024
 
  **Carlos Llosa-Vite**, Ranjan Maitra, "Elliptically-Contoured Tensor-variate Distributions with Application to Image Learning", *ACM Transactions on Probabilistic Machine Learning*, 1.1, 2024. [DOI](https://doi.org/10.1145/3675161) **(A version of this manuscript was Runners’-up at the Statistical Methods in Imaging Student Paper Competition award)**
