@@ -34,6 +34,8 @@ Bishoy Dawood, **Carlos Llosa-Vite**, Geoffrey Z. Thompson, Barbara K. Lograsso,
 
 ## 2025
 
+- **(invited talk)** "The Generalized Multilinear Model" *18th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics 2025)*, December 13, 2025, [Slides](Presentations/GMLM-CMStats25.pdf)
+
 - **(contributed poster)** "The Generalized Multilinear Model" *Statistics Meets Tensors: Methodology, Theory, and Applications*, May 6, 2025, [Poster](Presentations/2025_IMSI_GMLM_small.png)
 
 - **(invited talk)** "Poisson-response Tensor-on-Tensor Regression and Applications" *ASA Statistics in Imaging Virtual Working Group Colloquium*, February 27, 2025, [Slides](Presentations/ptotr_v1.pdf)

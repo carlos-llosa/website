@@ -39,7 +39,7 @@
     "href": "papers.html#section-4",
     "title": "Carlos Llosa",
     "section": "2025",
-    "text": "2025\n\n(contributed poster) “The Generalized Multilinear Model” Statistics Meets Tensors: Methodology, Theory, and Applications, May 6, 2025, Poster\n(invited talk) “Poisson-response Tensor-on-Tensor Regression and Applications” ASA Statistics in Imaging Virtual Working Group Colloquium, February 27, 2025, Slides\n(contributed poster) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” 2025 Conference on Data Analysis (CoDA2025), February 26, 2025"
+    "text": "2025\n\n(invited talk) “The Generalized Multilinear Model” 18th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics 2025), December 13, 2025, Slides\n(contributed poster) “The Generalized Multilinear Model” Statistics Meets Tensors: Methodology, Theory, and Applications, May 6, 2025, Poster\n(invited talk) “Poisson-response Tensor-on-Tensor Regression and Applications” ASA Statistics in Imaging Virtual Working Group Colloquium, February 27, 2025, Slides\n(contributed poster) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” 2025 Conference on Data Analysis (CoDA2025), February 26, 2025"
   },
   {
     "objectID": "papers.html#section-5",
@@ -54,6 +54,13 @@
     "title": "Carlos Llosa",
     "section": "2023",
     "text": "2023\n\n(invited talk) “On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model” 16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023) , December 17, 2023, Slides\n(invited talk) “Poisson-response Tensor-on-Tensor Regression and Applications” Iowa State University Department of Statistics 75th Anniversary Research Conference, October 1, 2023, Slides\n(contributed talk) “Poisson-response Tensor-on-Tensor Regression and Applications” 2023 Joint Statistical Meetings (JSM 2023), August 7, 2023, Slides\n(invited talk) “Poisson-response Tensor-on-Tensor Regression and Applications” The 2023 Sandia Machine Learning and Deep Learning (MLDL23) Workshop , July 4, 2023, Slides\n(contributed poster) “Poisson-response Tensor-on-Tensor Regression and Applications” 2023 Conference on Data Analysis (CoDA2023), March 8, 2023"
+  },
+  {
+    "objectID": "papers.html#section-7",
+    "href": "papers.html#section-7",
+    "title": "Carlos Llosa",
+    "section": "2022",
+    "text": "2022\n\n(invited talk, first place in student paper competition) “Reduced-Rank Tensor-on-Tensor Regression and Tensor-Variate ANOVA” 2022 Joint Statistical Meetings (JSM 2022), August 7, 2022, Slides\n(invited talk, runner-up in student paper competition) “Tensor-variate elliptically contoured distributions with application to image learning” The 2022 Statistical Methods in Imaging (SMI) Conference, May 25, 2022, Slides\n(invited talk) “Reduced-Rank Tensor-on-Tensor Regression and Tensor-Variate ANOVA” Iowa State University Department of Statistics Seminar, February, 2022, Slides"
   },
   {
     "objectID": "research.html",
@@ -75,12 +82,5 @@
     "title": "Carlos Llosa",
     "section": "totr",
     "text": "totr\nI’m lead author of the totr R package (GitHub).\nThis package performs Gaussian linear regression with tensor responses and tensor covariates. This implementation allows modeling the entry-to-entry correlation in the response tensor, and allows for four different types of low-rank regression coefficients."
-  },
-  {
-    "objectID": "papers.html#section-7",
-    "href": "papers.html#section-7",
-    "title": "Carlos Llosa",
-    "section": "2022",
-    "text": "2022\n\n(invited talk, first place in student paper competition) “Reduced-Rank Tensor-on-Tensor Regression and Tensor-Variate ANOVA” 2022 Joint Statistical Meetings (JSM 2022), August 7, 2022, Slides\n(invited talk, runner-up in student paper competition) “Tensor-variate elliptically contoured distributions with application to image learning” The 2022 Statistical Methods in Imaging (SMI) Conference, May 25, 2022, Slides\n(invited talk) “Reduced-Rank Tensor-on-Tensor Regression and Tensor-Variate ANOVA” Iowa State University Department of Statistics Seminar, February, 2022, Slides"
   }
 ]
